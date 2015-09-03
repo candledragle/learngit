@@ -1,0 +1,5 @@
+1.查看origin远程的所有分支
+git branch -a
+* 表示当前所在的分支
+2.git快速提交
+git commit -a -m "提交的内容描述"
